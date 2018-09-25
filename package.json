@@ -1,0 +1,16 @@
+{
+  "name": "post-mock",
+  "version": "1.0.0",
+  "main": "mock.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashevtsov-lulu/post-mock.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashevtsov-lulu/post-mock/issues"
+  },
+  "homepage": "https://github.com/ashevtsov-lulu/post-mock#readme",
+  "dependencies": {
+    "mockserver-client": "^5.3.0"
+  }
+}
